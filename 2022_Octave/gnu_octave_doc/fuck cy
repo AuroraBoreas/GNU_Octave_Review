@@ -1,0 +1,30 @@
+>> start .
+error: 'start' undefined near line 1, column 1
+>> open .
+>> doc_12_simple_example
+   0.2519   0.3766
+   0.8573   0.4149
+   0.1040   0.9428
+x =
+
+   1.0000
+   0.5000
+
+A =
+
+   1   2
+   3   4
+
+ans =
+
+   3   1
+   4   2
+
+x =
+
+   1   2   3   4   5
+
+y =
+
+    1    4    9   16   25
+
